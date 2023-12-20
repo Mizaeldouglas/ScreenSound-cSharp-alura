@@ -9,6 +9,10 @@ album1.AdicionarMusica(musca1);
 album1.AdicionarMusica(musca2);
 album1.ExibirMusicaDoAlbum();
 
+var banda1 = new Banda();
+banda1.Nome = "Queen";
+ banda1.AdicionarAlbum(album1);
+ banda1.ExibirDiscografia();
 
 
 

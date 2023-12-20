@@ -1,3 +1,5 @@
+using System.Collections;
+
 namespace ScreenSound;
 
 public class Album
@@ -6,7 +8,7 @@ public class Album
     public string Nome { get; set; }
     public int DuracaoTotal => _musicas.Sum(m => m.Duracao);
     
-    
+
     public void AdicionarMusica(Musica musica)
     {
         _musicas.Add(musica);
@@ -15,7 +17,6 @@ public class Album
     public void ExibirMusicaDoAlbum()
     {
         Console.WriteLine($"Lista de músicas do álbum: {Nome} \n");
-        Console.WriteLine($"Duração total do álbum: {DuracaoTotal} segundos \n");
         foreach (var musica in _musicas)
         {
             Console.WriteLine($"Música: {musica.Nome}");
