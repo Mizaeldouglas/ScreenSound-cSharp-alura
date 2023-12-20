@@ -1,0 +1,11 @@
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/bin/Debug/net7.0/ScreenSound
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/bin/Debug/net7.0/ScreenSound.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/bin/Debug/net7.0/ScreenSound.pdb
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.AssemblyReference.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfoInputs.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfo.cs
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.CoreCompileInputs.cache
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/refint/ScreenSound.dll
+/Users/mizaeldouglasmello/Programação/WorkSpace-c#/Alura/curso-POO/ScreenSound/obj/Debug/net7.0/ScreenSound.pdb
