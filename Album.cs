@@ -5,6 +5,12 @@ namespace ScreenSound;
 public class Album
 {
     private List<Musica> _musicas = new List<Musica>();
+
+    public Album(string nome)
+    {
+        Nome = nome;
+    }
+
     public string Nome { get; set; }
     public int DuracaoTotal => _musicas.Sum(m => m.Duracao);
     

@@ -4,8 +4,14 @@ public class Banda
 {
     private List<Album> _albuns = new List<Album>();
     public string Nome { get; set; }
-    
-    
+
+
+    public Banda(string nome)
+    {
+        Nome = nome;
+    }
+
+
     public void AdicionarAlbum(Album album)
     {
         _albuns.Add(album);
